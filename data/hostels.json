@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hostel-1",
+    "name": "Nomad's Rest Hostel",
+    "description": "Cozy hostel in the heart of Bishkek, perfect for backpackers. Close to markets and restaurants.",
+    "type": "hostel",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800"
+    ],
+    "location": "Bishkek, Chuy Region",
+    "coordinates": [74.6, 42.9],
+    "region": "Chuy",
+    "price": 15,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviewCount": 128,
+    "amenities": ["WiFi", "Kitchen", "Laundry", "24/7 Reception"],
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Sarah M.",
+        "rating": 5,
+        "comment": "Great location and friendly staff!",
+        "date": "2024-01-15"
+      },
+      {
+        "id": "rev-2",
+        "author": "John D.",
+        "rating": 4,
+        "comment": "Clean and affordable, would stay again.",
+        "date": "2024-01-10"
+      }
+    ]
+  },
+  {
+    "id": "hostel-2",
+    "name": "Issyk-Kul Beach Hostel",
+    "description": "Right on the shores of Issyk-Kul Lake. Wake up to stunning mountain views every morning.",
+    "type": "hostel",
+    "images": [
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+    ],
+    "location": "Cholpon-Ata, Issyk-Kul Region",
+    "coordinates": [77.1, 42.6],
+    "region": "Issyk-Kul",
+    "price": 20,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviewCount": 95,
+    "amenities": ["WiFi", "Beach Access", "BBQ Area", "Bike Rental"],
+    "reviews": [
+      {
+        "id": "rev-3",
+        "author": "Emma L.",
+        "rating": 5,
+        "comment": "Absolutely beautiful location! The lake view is incredible.",
+        "date": "2024-01-20"
+      }
+    ]
+  },
+  {
+    "id": "hostel-3",
+    "name": "Mountain View Hostel",
+    "description": "Perfect base for hiking adventures in Ala-Archa National Park.",
+    "type": "hostel",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800"
+    ],
+    "location": "Ala-Archa, Chuy Region",
+    "coordinates": [74.5, 42.6],
+    "region": "Chuy",
+    "price": 18,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviewCount": 67,
+    "amenities": ["WiFi", "Hiking Gear Rental", "Mountain Views", "Campfire Area"],
+    "reviews": [
+      {
+        "id": "rev-4",
+        "author": "Mike T.",
+        "rating": 4,
+        "comment": "Great for hikers, very close to the trails.",
+        "date": "2024-01-12"
+      }
+    ]
+  },
+  {
+    "id": "hostel-4",
+    "name": "Osh Bazaar Hostel",
+    "description": "Experience authentic Osh culture. Located near the famous Osh Bazaar.",
+    "type": "hostel",
+    "images": [
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+    ],
+    "location": "Osh, Osh Region",
+    "coordinates": [72.8, 40.5],
+    "region": "Osh",
+    "price": 12,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviewCount": 89,
+    "amenities": ["WiFi", "Central Location", "Cultural Tours", "Local Food"],
+    "reviews": [
+      {
+        "id": "rev-5",
+        "author": "Lisa K.",
+        "rating": 4,
+        "comment": "Authentic experience, loved the local vibe!",
+        "date": "2024-01-18"
+      }
+    ]
+  }
+]
+

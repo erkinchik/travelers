@@ -1,0 +1,49 @@
+[
+  {
+    "id": "testimonial-1",
+    "author": "Sarah Chen",
+    "location": "Singapore",
+    "rating": 5,
+    "text": "Kyrgyzstan exceeded all my expectations! The mountains, the people, the culture - everything was incredible. The Nomadic Culture Experience tour was a highlight of my trip.",
+    "avatar": "SC",
+    "tripType": "Adventure Traveler"
+  },
+  {
+    "id": "testimonial-2",
+    "author": "James Mitchell",
+    "location": "Australia",
+    "rating": 5,
+    "text": "I've traveled to over 40 countries, and Kyrgyzstan is truly special. The hospitality is unmatched, and the natural beauty is breathtaking. Issyk-Kul Lake is a must-see!",
+    "avatar": "JM",
+    "tripType": "World Traveler"
+  },
+  {
+    "id": "testimonial-3",
+    "author": "Maria Rodriguez",
+    "location": "Spain",
+    "rating": 5,
+    "text": "As a solo female traveler, I felt completely safe and welcome. The hostels are clean and affordable, and the locals are some of the friendliest people I've met.",
+    "avatar": "MR",
+    "tripType": "Solo Traveler"
+  },
+  {
+    "id": "testimonial-4",
+    "author": "David Kim",
+    "location": "South Korea",
+    "rating": 5,
+    "text": "The hiking in Ala-Archa National Park was incredible. The guides are knowledgeable and the scenery is out of this world. Already planning my next trip back!",
+    "avatar": "DK",
+    "tripType": "Hiking Enthusiast"
+  },
+  {
+    "id": "testimonial-5",
+    "author": "Emma Thompson",
+    "location": "UK",
+    "rating": 5,
+    "text": "Staying in a yurt by Son-Kul Lake was a once-in-a-lifetime experience. The starry nights, the traditional food, and the warm hospitality made it unforgettable.",
+    "avatar": "ET",
+    "tripType": "Cultural Explorer"
+  }
+]
+
+

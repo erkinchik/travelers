@@ -1,0 +1,130 @@
+[
+  {
+    "id": "tour-1",
+    "name": "Issyk-Kul Lake Adventure",
+    "description": "Full-day tour exploring the beautiful Issyk-Kul Lake, including boat ride, beach time, and local lunch.",
+    "type": "tour",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
+    ],
+    "location": "Issyk-Kul Region",
+    "coordinates": [77.0, 42.4],
+    "region": "Issyk-Kul",
+    "price": 85,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviewCount": 203,
+    "duration": "Full Day",
+    "organizer": "Kyrgyz Adventures",
+    "includes": ["Transportation", "Guide", "Lunch", "Boat Ride"],
+    "reviews": [
+      {
+        "id": "rev-t1",
+        "author": "David R.",
+        "rating": 5,
+        "comment": "Amazing experience! The lake is breathtaking.",
+        "date": "2024-01-22"
+      },
+      {
+        "id": "rev-t2",
+        "author": "Anna P.",
+        "rating": 5,
+        "comment": "Well organized and informative guide.",
+        "date": "2024-01-19"
+      }
+    ]
+  },
+  {
+    "id": "tour-2",
+    "name": "Ala-Archa Hiking Expedition",
+    "description": "Guided hiking tour through Ala-Archa National Park. Suitable for all fitness levels with stunning mountain views.",
+    "type": "tour",
+    "images": [
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800"
+    ],
+    "location": "Ala-Archa National Park, Chuy Region",
+    "coordinates": [74.5, 42.6],
+    "region": "Chuy",
+    "price": 65,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviewCount": 156,
+    "duration": "Half Day",
+    "organizer": "Mountain Guides KG",
+    "includes": ["Transportation", "Professional Guide", "Equipment", "Snacks"],
+    "reviews": [
+      {
+        "id": "rev-t3",
+        "author": "Tom H.",
+        "rating": 5,
+        "comment": "Best hiking experience in Kyrgyzstan!",
+        "date": "2024-01-25"
+      }
+    ]
+  },
+  {
+    "id": "tour-3",
+    "name": "Nomadic Culture Experience",
+    "description": "Immerse yourself in traditional Kyrgyz nomadic culture. Visit yurts, try horseback riding, and enjoy traditional food.",
+    "type": "tour",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
+    ],
+    "location": "Son-Kul, Naryn Region",
+    "coordinates": [75.1, 41.8],
+    "region": "Naryn",
+    "price": 120,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviewCount": 134,
+    "duration": "2 Days",
+    "organizer": "Nomad Life Tours",
+    "includes": ["Yurt Stay", "All Meals", "Horseback Riding", "Cultural Activities"],
+    "reviews": [
+      {
+        "id": "rev-t4",
+        "author": "Sophie W.",
+        "rating": 5,
+        "comment": "Authentic cultural experience, highly recommend!",
+        "date": "2024-01-20"
+      }
+    ]
+  },
+  {
+    "id": "tour-4",
+    "name": "Osh City Heritage Walk",
+    "description": "Explore the ancient city of Osh with a local guide. Visit historical sites, bazaars, and learn about Silk Road history.",
+    "type": "tour",
+    "images": [
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800"
+    ],
+    "location": "Osh, Osh Region",
+    "coordinates": [72.8, 40.5],
+    "region": "Osh",
+    "price": 45,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviewCount": 98,
+    "duration": "Half Day",
+    "organizer": "Osh Heritage Tours",
+    "includes": ["Local Guide", "Entrance Fees", "Traditional Snacks"],
+    "reviews": [
+      {
+        "id": "rev-t5",
+        "author": "Mark B.",
+        "rating": 4,
+        "comment": "Interesting history and great guide!",
+        "date": "2024-01-17"
+      }
+    ]
+  }
+]
+

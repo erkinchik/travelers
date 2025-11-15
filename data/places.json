@@ -1,0 +1,115 @@
+[
+  {
+    "id": "place-1",
+    "name": "Burana Tower",
+    "description": "Ancient minaret from the 11th century, part of the ancient city of Balasagun. A UNESCO World Heritage site candidate.",
+    "type": "place",
+    "images": [
+      "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800"
+    ],
+    "location": "Tokmok, Chuy Region",
+    "coordinates": [75.2, 42.7],
+    "region": "Chuy",
+    "price": 0,
+    "currency": "USD",
+    "rating": 4.5,
+    "reviewCount": 312,
+    "category": "Historical Site",
+    "reviews": [
+      {
+        "id": "rev-p1",
+        "author": "Jennifer L.",
+        "rating": 5,
+        "comment": "Fascinating piece of history!",
+        "date": "2024-01-23"
+      }
+    ]
+  },
+  {
+    "id": "place-2",
+    "name": "Jeti-Oguz Rocks",
+    "description": "Stunning red sandstone rock formations known as 'Seven Bulls'. A natural wonder perfect for photography.",
+    "type": "place",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
+    ],
+    "location": "Jeti-Oguz, Issyk-Kul Region",
+    "coordinates": [77.3, 42.3],
+    "region": "Issyk-Kul",
+    "price": 0,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviewCount": 267,
+    "category": "Natural Wonder",
+    "reviews": [
+      {
+        "id": "rev-p2",
+        "author": "Chris M.",
+        "rating": 5,
+        "comment": "Absolutely stunning! Must visit.",
+        "date": "2024-01-21"
+      }
+    ]
+  },
+  {
+    "id": "place-3",
+    "name": "Suleiman Too",
+    "description": "Sacred mountain in Osh, a UNESCO World Heritage site. Climb to the top for panoramic city views.",
+    "type": "place",
+    "images": [
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800"
+    ],
+    "location": "Osh, Osh Region",
+    "coordinates": [72.8, 40.5],
+    "region": "Osh",
+    "price": 0,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviewCount": 189,
+    "category": "Historical Site",
+    "reviews": [
+      {
+        "id": "rev-p3",
+        "author": "Rachel S.",
+        "rating": 5,
+        "comment": "Beautiful views and rich history.",
+        "date": "2024-01-19"
+      }
+    ]
+  },
+  {
+    "id": "place-4",
+    "name": "Skazka Canyon",
+    "description": "Colorful canyon with unique rock formations. Known as 'Fairy Tale Canyon' for its whimsical shapes.",
+    "type": "place",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
+    ],
+    "location": "Issyk-Kul Region",
+    "coordinates": [77.5, 42.2],
+    "region": "Issyk-Kul",
+    "price": 0,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviewCount": 198,
+    "category": "Natural Wonder",
+    "reviews": [
+      {
+        "id": "rev-p4",
+        "author": "Alex T.",
+        "rating": 5,
+        "comment": "Like walking through a fairy tale!",
+        "date": "2024-01-24"
+      }
+    ]
+  }
+]
+

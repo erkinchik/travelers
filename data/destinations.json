@@ -1,0 +1,52 @@
+[
+  {
+    "id": "issyk-kul",
+    "name": "Issyk-Kul",
+    "description": "The pearl of Kyrgyzstan, a stunning alpine lake surrounded by mountains",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "region": "Issyk-Kul",
+    "coordinates": [77.0, 42.4]
+  },
+  {
+    "id": "osh",
+    "name": "Osh",
+    "description": "Ancient city in the Fergana Valley, rich in history and culture",
+    "image": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800",
+    "region": "Osh",
+    "coordinates": [72.8, 40.5]
+  },
+  {
+    "id": "ala-archa",
+    "name": "Ala-Archa",
+    "description": "Beautiful national park near Bishkek, perfect for hiking and nature lovers",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "region": "Chuy",
+    "coordinates": [74.5, 42.6]
+  },
+  {
+    "id": "karakol",
+    "name": "Karakol",
+    "description": "Gateway to the Tien Shan mountains and winter sports destination",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "region": "Issyk-Kul",
+    "coordinates": [78.4, 42.5]
+  },
+  {
+    "id": "son-kul",
+    "name": "Son-Kul",
+    "description": "High-altitude alpine lake, perfect for experiencing nomadic culture",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    "region": "Naryn",
+    "coordinates": [75.1, 41.8]
+  },
+  {
+    "id": "bishkek",
+    "name": "Bishkek",
+    "description": "The capital city, vibrant and modern with Soviet-era architecture",
+    "image": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800",
+    "region": "Chuy",
+    "coordinates": [74.6, 42.9]
+  }
+]
+
+
